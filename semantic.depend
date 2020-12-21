@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1525087585 source:c:\users\win\desktop\project\semantic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+
+1525353387 source:c:\users\win\desktop\semantic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+
+1525353387 source:c:\users\win\desktop\project\semantic2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+
+1525353387 source:e:\new folder (2)\project\semantic2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<set>
+
